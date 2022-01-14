@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{ACC0BD41-9EBA-3BDB-ADA9-C751983DC710}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Doors/CloseDoor.cs">
+    <Files>
+      <File FileName="../2D RPG 0.0.7/Assets/Scripts/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="../2D RPG 0.0.7/Assets/Scripts/CoffeeBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Doors/CloseDoor.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/Scripts/Doors/LockedDoor.cs" Line="38" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f63ca221-281a-4109-a5aa-1862aa110230" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

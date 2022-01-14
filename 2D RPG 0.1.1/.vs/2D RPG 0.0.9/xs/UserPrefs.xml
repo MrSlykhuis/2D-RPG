@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{66BCC33B-4457-F424-C4BA-B8BF7FEAFC90}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Doors/LockedDoor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Doors/LockedDoor.cs" Line="37" Column="12" />
+      <File FileName="Assets/Scripts/Doors/CloseDoor.cs" Line="22" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9752680e-d7b6-453e-aaef-9522d5e49c40" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
