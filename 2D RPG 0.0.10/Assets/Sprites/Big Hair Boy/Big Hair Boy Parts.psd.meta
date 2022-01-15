@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: b0a16bb2798d2427b9c6e9af57aed40f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2368258064616419072
+    second: Big Hair Boy Parts_0
+  - first:
+      213: 2221617729647546294
+    second: Big Hair Boy Parts_1
+  - first:
+      213: 1126969093854121054
+    second: Big Hair Boy Parts_2
+  - first:
+      213: -5852037749568051627
+    second: Big Hair Boy Parts_3
+  - first:
+      213: -9219472064094726865
+    second: Big Hair Boy Parts_4
+  - first:
+      213: -8560555401866873964
+    second: Big Hair Boy Parts_5
+  - first:
+      213: -4442853763581413371
+    second: Big Hair Boy Parts_6
+  - first:
+      213: 3251184613712130709
+    second: Big Hair Boy Parts_7
+  - first:
+      213: -7303004963709903418
+    second: Big Hair Boy Parts_8
+  - first:
+      213: 2659678489788097332
+    second: Big Hair Boy Parts_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001951a76d1422fd0800000000000000
+      internalID: -2368258064616419072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.18992233, y: 0.8410858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf0a52fd85c4de10800000000000000
+      internalID: 2221617729647546294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5391343, y: 0.82867354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc4008b6cc3af00800000000000000
+      internalID: 1126969093854121054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 54
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e1d41ca269cea0800000000000000
+      internalID: -5852037749568051627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.43798524, y: 0.81007874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251ffa210bdd0080800000000000000
+      internalID: -9219472064094726865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.3759697, y: 0.81007874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4937cafb73cc23980800000000000000
+      internalID: -8560555401866873964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 28
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5238524, y: 0.10132926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f8b09a00d752c0800000000000000
+      internalID: -4442853763581413371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f68f3e278e1d20800000000000000
+      internalID: 3251184613712130709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 14
+        width: 22
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.2785165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1821bda386aa90800000000000000
+      internalID: -7303004963709903418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Hair Boy Parts_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.3139557, y: 0.5000019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332190be7319e420800000000000000
+      internalID: 2659678489788097332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
