@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B05B7AEB-EBE3-CCD4-D324-F7418612E045}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dialogue.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Colliders.cs" Line="29" Column="14" />
+      <File FileName="Assets/Scripts/Dialogue.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/DialogueObject.cs" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c76227d3-802b-477f-bd47-42db52d4325e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
