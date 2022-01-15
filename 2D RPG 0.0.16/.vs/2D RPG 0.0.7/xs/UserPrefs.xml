@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A8997E15-B808-F042-C86F-6C5C2F0CEA83}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoffeeBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BigMouthMonster/TakeDamage.cs" Line="22" Column="18" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="130" Column="13" />
+      <File FileName="Assets/Scripts/BigMouthMonster/MonsterFollow.cs" Line="23" Column="10" />
+      <File FileName="Assets/Scripts/BigMouthMonster/MonsterController.cs" Line="31" Column="35" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/Projectile/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Projectile/ProjectileBehaviour.cs" Line="8" Column="40" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="25" Column="37" />
+      <File FileName="Assets/Scripts/CoffeeBar.cs" Line="33" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="362a0d6f-5529-43ea-8c17-12e64be3c6d7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

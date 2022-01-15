@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0892FA68-0F03-B26E-5DD6-B9E6FCF0E0BE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LayerHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BigMouthMonster/MonsterHealth.cs" Line="29" Column="76" />
+      <File FileName="Assets/Scripts/UI/HealthBar.cs" Line="47" Column="34" />
+      <File FileName="Assets/Scripts/BigMouthMonster/TakeDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Projectile/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Camera and Scene/LevelLoader.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/BigMouthMonster/SecondsToDestroy.cs" Line="12" Column="18" />
+      <File FileName="Assets/Scripts/Item Interactions/CakePop.cs" Line="18" Column="41" />
+      <File FileName="Assets/Scripts/Obstacles/SpikeTrap.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/MyScript.cs" Line="9" Column="2" />
+      <File FileName="Assets/Editor/SortingOrder.cs" Line="7" Column="26" />
+      <File FileName="Assets/Scripts/LayerHandler.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87ab80d5-5847-4214-bac7-8268a144c6aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 55e0aa633631444fd8bcec91745ac5e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6101608796026224914
+    second: Inventor Girl Parts_0
+  - first:
+      213: -4102064365187383807
+    second: Inventor Girl Parts_1
+  - first:
+      213: -35636800893023252
+    second: Inventor Girl Parts_2
+  - first:
+      213: -4735128508890983365
+    second: Inventor Girl Parts_3
+  - first:
+      213: -5379120232530835063
+    second: Inventor Girl Parts_4
+  - first:
+      213: 6019906819506615725
+    second: Inventor Girl Parts_5
+  - first:
+      213: 1954094275556572900
+    second: Inventor Girl Parts_6
+  - first:
+      213: -199160387862418211
+    second: Inventor Girl Parts_7
+  - first:
+      213: 7581746171259156571
+    second: Inventor Girl Parts_8
+  - first:
+      213: 1112208920764986251
+    second: Inventor Girl Parts_9
+  - first:
+      213: 7313233109320804453
+    second: Inventor Girl Parts_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inventor Girl Parts_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3572b02bb25ba0800000000000000
+      internalID: -6101608796026224914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9304802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb73b813a8217c0800000000000000
+      internalID: -4102064365187383807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.39238054, y: 0.89460677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb07d5b484618ff0800000000000000
+      internalID: -35636800893023252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 53
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345abd75b1794eb0800000000000000
+      internalID: -4735128508890983365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4806202, y: 0.5182401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98902e7f5a68955b0800000000000000
+      internalID: -5379120232530835063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.45973969, y: 0.9140979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5b4a58b510b8350800000000000000
+      internalID: 6019906819506615725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25844002, y: 0.96010864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7c20f3665e1b10800000000000000
+      internalID: 1954094275556572900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 30
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca124bea07c3df0800000000000000
+      internalID: -199160387862418211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58741319f5c73960800000000000000
+      internalID: 7581746171259156571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b736ee1c5f6f00800000000000000
+      internalID: 1112208920764986251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventor Girl Parts_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 8
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56821b804c2dd7560800000000000000
+      internalID: 7313233109320804453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
