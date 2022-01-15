@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{195A502C-ADE8-0D21-D4C5-0948805A0AAA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/Dialogue.cs" Line="183" Column="49" />
+      <File FileName="Assets/Scripts/Projectile/ProjectileBehaviour.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d3d5ec7-a269-4ace-b215-60e3a1897078" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
